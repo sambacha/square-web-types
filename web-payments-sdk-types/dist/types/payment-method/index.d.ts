@@ -5,3 +5,4 @@ export * from './cards';
 export * from './gift-card';
 export * from './google-pay';
 export * from './cash-app';
+export * from './sushi-pay';

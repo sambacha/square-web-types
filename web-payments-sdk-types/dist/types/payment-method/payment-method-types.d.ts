@@ -9,6 +9,8 @@ declare enum MethodType {
     APPLE_PAY = "Apple Pay",
     /** Credit or debit card */
     CARD = "Card",
+    /** Sushi Pay */
+    SUSHI_PAY = "Sushi Pay",
     /**
      * @hidden
      */
